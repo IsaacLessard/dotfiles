@@ -1,4 +1,4 @@
 # dotfiles
 
 ## Bash Profile
-`Currently building my .bash_profile 
+Currently building my .bash_profile 
