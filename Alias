@@ -2,6 +2,7 @@
 
 # General
 
+mcd () { mkdir -p "$1" && cd "$1" && pwd; }        
 alias ..="       cd .. && ls"
 alias ...="      cd ../.. && ls"
 alias ....="     cd ../../.. && ls"
