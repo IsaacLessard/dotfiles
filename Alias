@@ -1,0 +1,30 @@
+
+
+# General
+```
+alias ..="      cd .. && ls"
+alias ...="      cd ../.. && ls"
+alias ....="      cd ../../.. && ls"
+alias la="        ls -al"
+```
+# gSchool
+```
+alias cla="     cd ~/dev/g15_classwork/2semester && ls"
+alias warm="     cd ~/dev/g15_classwork/2semester/warmups && ls"
+alias les="     cd ~/dev/g15_classwork/2semester/lessonEx && ls"
+
+```
+#Git
+```
+alias gst="git status"
+alias ga="git add -A"
+alias gic="git commit -m 'initial commit'"
+alias gb="git branch"
+alias gpom="git push origin master"
+alias ign=" echo .DS_STORE node_modules >> .gitignore"
+
+```
+#Node
+```
+alias napp="    nodemon app.js"
+```
