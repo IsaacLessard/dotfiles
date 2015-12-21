@@ -2,6 +2,6 @@
 
 ## Bash Profile
 ```
-Currently building my .bash_profile 
+My current .bash_profile aliases
 
 ```
